@@ -1,2 +1,5 @@
-data-structures-js
-==================
+JavaScript Data Structures
+==========================
+
+###Examples include:
+* Linked List
